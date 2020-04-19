@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="340dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/img_atharva"
+            android:layout_width="wrap_content"
+            android:layout_height="360dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="250dp"
+            android:layout_marginBottom="360dp"
+            android:src="@drawable/atharva" />
+
+        <TextView
+            android:id="@+id/text_atharva"
+            android:layout_width="176dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="11dp"
+            android:layout_marginTop="290dp"
+            android:layout_marginRight="220dp"
+            android:text="Atharva Kulkarni"
+            android:textSize="23sp" />
+
+        <ImageView
+            android:id="@+id/img_adwait"
+            android:layout_width="wrap_content"
+            android:layout_height="360dp"
+            android:layout_marginLeft="220dp"
+            android:layout_marginBottom="360dp"
+            android:layout_marginRight="1dp"
+            android:src="@drawable/adwait" />
+
+        <TextView
+            android:id="@+id/text_adwait"
+            android:layout_width="158dp"
+            android:layout_height="62dp"
+            android:layout_marginLeft="250dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginTop="290dp"
+            android:text="Adwait Gondhalekar" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="317dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="350dp">
+
+        <ImageView
+            android:id="@+id/img_aditya"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="250dp"
+            android:layout_marginBottom="60dp"
+            android:src="@drawable/aditya" />
+
+        <TextView
+            android:id="@+id/text_aditya"
+            android:layout_width="118dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="205dp"
+            android:layout_marginRight="250dp"
+            android:text="Aditya Gade"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/img_niraj"
+            android:layout_width="149dp"
+            android:layout_height="183dp"
+            android:layout_marginLeft="240dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="1dp"
+            android:layout_marginBottom="50dp"
+            android:src="@drawable/niraj" />
+
+        <TextView
+            android:id="@+id/text_niraj"
+            android:layout_width="121dp"
+            android:layout_height="48dp"
+            android:layout_marginTop="200dp"
+            android:layout_marginLeft="260dp"
+            android:layout_marginRight="250dp"
+            android:layout_marginBottom="20dp"
+            android:textSize="17dp"
+            android:text="Niraj Bharambe" />
+    </RelativeLayout>
+</RelativeLayout>
