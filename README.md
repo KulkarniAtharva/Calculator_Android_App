@@ -7,7 +7,7 @@ Calculator provides simple and advanced mathematical functions in a beautifully 
 • Do scientific operations such as trigonometric, logarithmic, and exponential functions
 
 <BR><BR><img src="https://img.icons8.com/emoji/48/000000/fire.png"/><BR>
-### My first Android App
+### My 1st Android App
 Started the journey of Android Development in January 2019. A good start indeed <img src="https://img.icons8.com/emoji/48/000000/star-struck.png"/> 
 
 
